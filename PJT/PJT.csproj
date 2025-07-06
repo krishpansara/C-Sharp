@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4B059524-A6DA-4B06-8FA2-6B8DC2CEBFED}</ProjectGuid>
+    <ProjectGuid>{B3FABBAF-AA88-42F8-9BAB-AEDB8213FFA9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>KrishPansara_23SOECE12901</RootNamespace>
-    <AssemblyName>KrishPansara_23SOECE12901</AssemblyName>
+    <RootNamespace>PJT</RootNamespace>
+    <AssemblyName>PJT</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,17 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Patterns\P1.cs" />
+    <Compile Include="Patterns\P2.cs" />
+    <Compile Include="Patterns\P3.cs" />
+    <Compile Include="Patterns\P4.cs" />
+    <Compile Include="Patterns\P5.cs" />
+    <Compile Include="Patterns\P6.cs" />
+    <Compile Include="Patterns\P7.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Tutorial-01\Q1.cs" />
-    <Compile Include="Tutorial-01\Q2.cs" />
-    <Compile Include="Tutorial-01\Q3.cs" />
-    <Compile Include="Tutorial-01\Q4.cs" />
-    <Compile Include="Tutorial-01\Q5.cs" />
-    <Compile Include="Tutorial-01\Q6.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

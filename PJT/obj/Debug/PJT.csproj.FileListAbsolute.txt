@@ -1,0 +1,2 @@
+E:\COADING\C-Sharp\PJT\obj\Debug\PJT.csproj.AssemblyReference.cache
+E:\COADING\C-Sharp\PJT\obj\Debug\PJT.csproj.CoreCompileInputs.cache
