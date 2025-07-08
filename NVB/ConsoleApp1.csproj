@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="array.cs" />
+    <Compile Include="array_max.cs" />
+    <Compile Include="bubble_sort.cs" />
+    <Compile Include="freq_element.cs" />
+    <Compile Include="linear_search.cs" />
     <Compile Include="even_num.cs" />
     <Compile Include="Loops.cs" />
     <Compile Include="Program.cs" />

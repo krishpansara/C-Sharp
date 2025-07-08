@@ -1,12 +1,88 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\COADING\\C#\\ConsoleApp1\\",
-  "Documents": [],
+  "WorkspaceRootPath": "E:\\COADING\\C-Sharp\\NVB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF7F87E-5D6D-4A01-B7B8-3FEACBA45DAD}|ConsoleApp1.csproj|e:\\coading\\c-sharp\\nvb\\freq_element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF7F87E-5D6D-4A01-B7B8-3FEACBA45DAD}|ConsoleApp1.csproj|solutionrelative:freq_element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF7F87E-5D6D-4A01-B7B8-3FEACBA45DAD}|ConsoleApp1.csproj|e:\\coading\\c-sharp\\nvb\\bubble_sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF7F87E-5D6D-4A01-B7B8-3FEACBA45DAD}|ConsoleApp1.csproj|solutionrelative:bubble_sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF7F87E-5D6D-4A01-B7B8-3FEACBA45DAD}|ConsoleApp1.csproj|e:\\coading\\c-sharp\\nvb\\linear_search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF7F87E-5D6D-4A01-B7B8-3FEACBA45DAD}|ConsoleApp1.csproj|solutionrelative:linear_search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF7F87E-5D6D-4A01-B7B8-3FEACBA45DAD}|ConsoleApp1.csproj|e:\\coading\\c-sharp\\nvb\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF7F87E-5D6D-4A01-B7B8-3FEACBA45DAD}|ConsoleApp1.csproj|solutionrelative:array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "freq_element.cs",
+              "DocumentMoniker": "E:\\COADING\\C-Sharp\\NVB\\freq_element.cs",
+              "RelativeDocumentMoniker": "freq_element.cs",
+              "ToolTip": "E:\\COADING\\C-Sharp\\NVB\\freq_element.cs",
+              "RelativeToolTip": "freq_element.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:07:05.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bubble_sort.cs",
+              "DocumentMoniker": "E:\\COADING\\C-Sharp\\NVB\\bubble_sort.cs",
+              "RelativeDocumentMoniker": "bubble_sort.cs",
+              "ToolTip": "E:\\COADING\\C-Sharp\\NVB\\bubble_sort.cs",
+              "RelativeToolTip": "bubble_sort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T05:40:24.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "linear_search.cs",
+              "DocumentMoniker": "E:\\COADING\\C-Sharp\\NVB\\linear_search.cs",
+              "RelativeDocumentMoniker": "linear_search.cs",
+              "ToolTip": "E:\\COADING\\C-Sharp\\NVB\\linear_search.cs",
+              "RelativeToolTip": "linear_search.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T05:17:42.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "array.cs",
+              "DocumentMoniker": "E:\\COADING\\C-Sharp\\NVB\\array.cs",
+              "RelativeDocumentMoniker": "array.cs",
+              "ToolTip": "E:\\COADING\\C-Sharp\\NVB\\array.cs",
+              "RelativeToolTip": "array.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T04:39:37.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
