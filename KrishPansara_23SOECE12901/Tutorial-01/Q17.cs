@@ -6,13 +6,18 @@ using System.Threading.Tasks;
 
 namespace KrishPansara_23SOECE12901.Tutorial_01
 {
-    internal class Q1
+    internal class Q17
     {
         public static void Main(string[] args)
         {
-
-            Console.Write("Hello World");
-
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 1; j <= i + 1; j++)
+                {
+                    Console.Write(j);
+                }
+                Console.WriteLine();
+            }
         }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KrishPansara_23SOECE12901.Tutorial_01
 {
-    internal class Q6
+    internal class Q06
     {
         class Program
         {

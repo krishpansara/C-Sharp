@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KrishPansara_23SOECE12901.Tutorial_01
 {
-    internal class Q5
+    internal class Q05
     {
         static void Main(string[] args)
         {
