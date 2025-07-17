@@ -11,15 +11,25 @@ namespace KrishPansara_23SOECE12901.Tutorial_01
         public static void Main(string[] args)
         {
             Console.Write("Enter Number: ");
-            string number = Console.ReadLine();
+            int number = Convert.ToInt32(Console.ReadLine());
+            int temp = 0;
+            string[] ans = {};
+
             string[] words = { "Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine" };
 
-            foreach (char c in number)
+            while (number > 0)
             {
-                if (char.IsDigit(c))
-                    Console.Write(words[c - '0'] + " ");
+                temp = number % 10;
+                ans = ans.Append(words[temp]).ToArray();
+                number = number / 10;
             }
 
+            for(int i = ans.Length - 1; i >= 0; --i)
+            {
+                Console.Write(ans[i] + " ");
+            }
+
+            //Console.Read();
         }
     }
 }
