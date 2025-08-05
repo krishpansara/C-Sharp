@@ -30,6 +30,13 @@ namespace programs.OOPs
             name = Console.ReadLine();
         }
 
+        // Copy Constructor
+        public Student(Student s)
+        {
+            rollNo = s.rollNo;
+            name = s.name;
+        }
+
 
         // Parameterized constructor
         public Student(int rollNo, string name)
