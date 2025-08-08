@@ -45,15 +45,61 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Tutorial-01\Q1.cs" />
-    <Compile Include="Tutorial-01\Q2.cs" />
-    <Compile Include="Tutorial-01\Q3.cs" />
-    <Compile Include="Tutorial-01\Q4.cs" />
-    <Compile Include="Tutorial-01\Q5.cs" />
-    <Compile Include="Tutorial-01\Q6.cs" />
+    <Compile Include="Tutorial-01\Q08.cs" />
+    <Compile Include="Tutorial-01\Q09.cs" />
+    <Compile Include="Tutorial-01\Q10.cs" />
+    <Compile Include="Tutorial-01\Q11.cs" />
+    <Compile Include="Tutorial-01\Q12.cs" />
+    <Compile Include="Tutorial-01\Q13.cs" />
+    <Compile Include="Tutorial-01\Q14.cs" />
+    <Compile Include="Tutorial-01\Q15.cs" />
+    <Compile Include="Tutorial-01\Q16.cs" />
+    <Compile Include="Tutorial-01\Q17.cs" />
+    <Compile Include="Tutorial-01\Q18.cs" />
+    <Compile Include="Tutorial-01\Q19.cs" />
+    <Compile Include="Tutorial-01\Q20.cs" />
+    <Compile Include="Tutorial-01\Q07.cs" />
+    <Compile Include="Tutorial-01\Q01.cs" />
+    <Compile Include="Tutorial-01\Q02.cs" />
+    <Compile Include="Tutorial-01\Q03.cs" />
+    <Compile Include="Tutorial-01\Q04.cs" />
+    <Compile Include="Tutorial-01\Q05.cs" />
+    <Compile Include="Tutorial-01\Q06.cs" />
+    <Compile Include="Tutorial-01\Q21.cs" />
+    <Compile Include="Tutorial-01\Q22.cs" />
+    <Compile Include="Tutorial-02\Q01.cs" />
+    <Compile Include="Tutorial-02\Q02.cs" />
+    <Compile Include="Tutorial-02\Q03.cs" />
+    <Compile Include="Tutorial-02\Q04.cs" />
+    <Compile Include="Tutorial-02\Q05.cs" />
+    <Compile Include="Tutorial-02\Q06.cs" />
+    <Compile Include="Tutorial-02\Q07.cs" />
+    <Compile Include="Tutorial-02\Q08.cs" />
+    <Compile Include="Tutorial-02\Q09.cs" />
+    <Compile Include="Tutorial-02\Q10.cs" />
+    <Compile Include="Tutorial-02\Q11.cs" />
+    <Compile Include="Tutorial-02\Q12.cs" />
+    <Compile Include="Tutorial-02\Q13.cs" />
+    <Compile Include="Tutorial-02\Q14.cs" />
+    <Compile Include="Tutorial-02\Q15.cs" />
+    <Compile Include="Tutorial-03\Q01.cs" />
+    <Compile Include="Tutorial-03\Q05.cs" />
+    <Compile Include="Tutorial-03\Q06.cs" />
+    <Compile Include="Tutorial-03\Q07.cs" />
+    <Compile Include="Tutorial_Array\Q01.cs" />
+    <Compile Include="Tutorial_Array\Q02.cs" />
+    <Compile Include="Tutorial_Array\Q03.cs" />
+    <Compile Include="Tutorial_Array\Q04.cs" />
+    <Compile Include="Tutorial_Array\Q05.cs" />
+    <Compile Include="Tutorial_Array\Q06.cs" />
+    <Compile Include="Tutorial_Array\Q07.cs" />
+    <Compile Include="Tutorial_Array\Q08.cs" />
+    <Compile Include="Tutorial_Array\Q09.cs" />
+    <Compile Include="Tutorial_Array\Q10.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

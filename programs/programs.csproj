@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B3FABBAF-AA88-42F8-9BAB-AEDB8213FFA9}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>PJT</RootNamespace>
+    <AssemblyName>PJT</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="array\addition_2d_matrics.cs" />
+    <Compile Include="array\array_methods.cs" />
+    <Compile Include="Methods\methodOverloading.cs" />
+    <Compile Include="OOPs\classDemo1.cs" />
+    <Compile Include="array\jagged_array.cs" />
+    <Compile Include="array\pattern_jagged_array.cs" />
+    <Compile Include="array\_2d_array.cs" />
+    <Compile Include="Methods\calc_methods.cs" />
+    <Compile Include="Methods\OutDemo.cs" />
+    <Compile Include="Methods\swap.cs" />
+    <Compile Include="OOPs\classDemo3.cs" />
+    <Compile Include="OOPs\classDemo4.cs" />
+    <Compile Include="OOPs\classDemoBook.cs" />
+    <Compile Include="OOPs\constructor.cs" />
+    <Compile Include="OOPs\classDemo2.cs" />
+    <Compile Include="OOPs\propertiesExample.cs" />
+    <Compile Include="OOPs\timeClass.cs" />
+    <Compile Include="Patterns\P1.cs" />
+    <Compile Include="Patterns\P2.cs" />
+    <Compile Include="Patterns\P3.cs" />
+    <Compile Include="Patterns\P4.cs" />
+    <Compile Include="Patterns\P5.cs" />
+    <Compile Include="Patterns\P6.cs" />
+    <Compile Include="Patterns\P7.cs" />
+    <Compile Include="Patterns\P8.cs" />
+    <Compile Include="Patterns\P9.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

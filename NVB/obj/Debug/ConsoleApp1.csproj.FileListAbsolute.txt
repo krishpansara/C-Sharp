@@ -1,8 +1,0 @@
-E:\COADING\C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-E:\COADING\C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-E:\COADING\C#\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-E:\COADING\C#\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
-E:\COADING\C#\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
-E:\COADING\C#\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-E:\COADING\C#\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
-E:\COADING\C#\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config

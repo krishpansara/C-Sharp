@@ -1,0 +1,133 @@
+## Ignore Visual Studio temporary files, build results, and
+## user-generated files.
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
+
+# Visual Studio working folder
+.vs/
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# DotCover
+*.dotCover
+
+# TFS
+$tf/
+
+# Azure Pipelines
+.vsts/
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+TestResults/
+
+# Build logs
+*.log
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# Web workbench (Web Essentials)
+.sass-cache/
+
+# Local history for Visual Studio
+.localhistory/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Package Management
+*.nupkg
+*.snupkg
+*.nuspec
+*.psmdcp
+.packages/
+packages/
+.nuget/
+
+# Backup & report files from converting an old project
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# DotTrace
+*.dotTrace
+
+# TeamCity
+_TeamCity*
+
+# Rider
+.idea/
+
+# Coverlet coverage output
+coverage*.json
+coverage*.xml
+coverage*.info
+
+# ReportGenerator files
+report*/ 
+
+# StyleCop
+StyleCopReport.xml
+
+# Others
+*.swp
+*.bak
+*.tmp
+*.orig
+*.sln.docstates
+*.dbmdl
+
+# IDE Extensions
+.localhistory/
