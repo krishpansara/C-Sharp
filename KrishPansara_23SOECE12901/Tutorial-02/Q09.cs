@@ -35,19 +35,20 @@ namespace KrishPansara_23SOECE12901.Tutorial_02
         }
 
         internal class Q09
-    {
-        static void Main()
         {
-            // Example 1
-            int[] arr1 = { 1, 2, 3, 2, 1, 4 };
-            Console.WriteLine("Example 1 Output:");
-            FindTwoOddNumbers(arr1);
+            static void Main()
+            {
+                // Example 1
+                int[] arr1 = { 1, 2, 3, 2, 1, 4 };
+                Console.WriteLine("Example 1 Output:");
+                FindTwoOddNumbers(arr1);
 
-            // Example 2
-            int[] arr2 = { 2, 1, 3, 2 };
-            Console.WriteLine("Example 2 Output:");
-            FindTwoOddNumbers(arr2);
-        }
+                // Example 2
+                int[] arr2 = { 2, 1, 3, 2 };
+                Console.WriteLine("Example 2 Output:");
+                FindTwoOddNumbers(arr2);
+            }
+        } 
 
     }
 }

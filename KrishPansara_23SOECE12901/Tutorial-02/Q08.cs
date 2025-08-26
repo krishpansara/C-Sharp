@@ -19,14 +19,14 @@ namespace KrishPansara_23SOECE12901.Tutorial_02
             Console.WriteLine("Enter the third value: ");
             z = Convert.ToInt32(Console.ReadLine());
 
-            int sum = x + y + z;  // ✅ Correct summation of integers
+            int sum = x + y + z;
             return sum;
         }
     }
 
     internal class Q08
     {
-        \ static void Main(string[] args)
+        static void Main(string[] args)
         {
             NumberManipulator1 n = new NumberManipulator1();
 
