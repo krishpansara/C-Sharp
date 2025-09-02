@@ -58,7 +58,11 @@
     <Compile Include="OOPs\classDemoBook.cs" />
     <Compile Include="OOPs\constructor.cs" />
     <Compile Include="OOPs\classDemo2.cs" />
+    <Compile Include="OOPs\problem1.cs" />
+    <Compile Include="OOPs\problem2.cs" />
+    <Compile Include="OOPs\problem3.cs" />
     <Compile Include="OOPs\propertiesExample.cs" />
+    <Compile Include="OOPs\staticExample.cs" />
     <Compile Include="OOPs\timeClass.cs" />
     <Compile Include="Patterns\P1.cs" />
     <Compile Include="Patterns\P2.cs" />
