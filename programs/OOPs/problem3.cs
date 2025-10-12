@@ -4,15 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PJT.OOPs
+namespace programs.OOPs
 {
-    public class Book
+    public class Book1
     {
         private int BookID, no_of_pages;
         private string title, author;
         private double original_price, discountedprice;
 
-        public Book(int BookID, string title, string author, int no_of_pages, double original_price)
+        public Book1(int BookID, string title, string author, int no_of_pages, double original_price)
         {
             this.BookID = BookID;
             this.title = title;
@@ -58,8 +58,8 @@ namespace PJT.OOPs
     {
         public static void Main()
         {
-            Book b1 = new Book(1, "XYZ", "ABC", 650, 500);
-            Book b2 = new Book(2, "AMX", "AZC", 60, 500);
+            Book1 b1 = new Book1(1, "XYZ", "ABC", 650, 500);
+            Book1 b2 = new Book1(2, "AMX", "AZC", 60, 500);
 
             b1.calculate_discount();
             b2.calculate_discount();
