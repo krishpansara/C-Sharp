@@ -51,15 +51,15 @@ namespace programs.OOPs
 
             // Method - 1 (java)
             s1.setFirstName("Ramesh");
-            s1.setLastName("Ramani");
+            //s1.setLastName("Ramani");
 
             Console.WriteLine(s1.GetFirstName());
-            Console.WriteLine(s1.GetLastName());
+            //Console.WriteLine(s1.GetLastName());
 
             // Method - 2 (properties)
-            s2.FirstName = "Ramesh";
+            //s2.FirstName = "Ramesh";
             s2.LastName = "Ramani";
-            Console.WriteLine(s2.FirstName);
+            //Console.WriteLine(s2.FirstName);
             //Console.WriteLine(s2.LastName);  // it is giving an error because we have set this is write-only property
 
         }
