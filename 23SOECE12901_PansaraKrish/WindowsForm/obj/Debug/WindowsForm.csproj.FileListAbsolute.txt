@@ -1,0 +1,11 @@
+E:\COADING\C-Sharp\23SOECE12901_PansaraKrish\WindowsForm\bin\Debug\WindowsForm.exe.config
+E:\COADING\C-Sharp\23SOECE12901_PansaraKrish\WindowsForm\bin\Debug\WindowsForm.exe
+E:\COADING\C-Sharp\23SOECE12901_PansaraKrish\WindowsForm\bin\Debug\WindowsForm.pdb
+E:\COADING\C-Sharp\23SOECE12901_PansaraKrish\WindowsForm\obj\Debug\WindowsForm.csproj.AssemblyReference.cache
+E:\COADING\C-Sharp\23SOECE12901_PansaraKrish\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+E:\COADING\C-Sharp\23SOECE12901_PansaraKrish\WindowsForm\obj\Debug\WindowsForm.Q6.resources
+E:\COADING\C-Sharp\23SOECE12901_PansaraKrish\WindowsForm\obj\Debug\WindowsForm.csproj.GenerateResource.cache
+E:\COADING\C-Sharp\23SOECE12901_PansaraKrish\WindowsForm\obj\Debug\WindowsForm.csproj.CoreCompileInputs.cache
+E:\COADING\C-Sharp\23SOECE12901_PansaraKrish\WindowsForm\obj\Debug\WindowsForm.exe
+E:\COADING\C-Sharp\23SOECE12901_PansaraKrish\WindowsForm\obj\Debug\WindowsForm.pdb
+E:\COADING\C-Sharp\23SOECE12901_PansaraKrish\WindowsForm\obj\Debug\WindowsForm.exe.config

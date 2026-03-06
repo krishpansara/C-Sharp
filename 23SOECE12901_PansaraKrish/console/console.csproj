@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B3FABBAF-AA88-42F8-9BAB-AEDB8213FFA9}</ProjectGuid>
+    <ProjectGuid>{8D4E0BD5-FD35-48A5-900F-D0E61B94FEFC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>PJT</RootNamespace>
-    <AssemblyName>PJT</AssemblyName>
+    <RootNamespace>console</RootNamespace>
+    <AssemblyName>console</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,47 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="array\addition_2d_matrics.cs" />
-    <Compile Include="array\array_methods.cs" />
-    <Compile Include="Methods\methodOverloading.cs" />
-    <Compile Include="OOPs\abstraction\abstractTutorial.cs" />
-    <Compile Include="OOPs\classDemo1.cs" />
-    <Compile Include="array\jagged_array.cs" />
-    <Compile Include="array\pattern_jagged_array.cs" />
-    <Compile Include="array\_2d_array.cs" />
-    <Compile Include="Methods\calc_methods.cs" />
-    <Compile Include="Methods\OutDemo.cs" />
-    <Compile Include="Methods\swap.cs" />
-    <Compile Include="OOPs\classDemo3.cs" />
-    <Compile Include="OOPs\classDemo4.cs" />
-    <Compile Include="OOPs\classDemoBook.cs" />
-    <Compile Include="OOPs\constructor.cs" />
-    <Compile Include="OOPs\classDemo2.cs" />
-    <Compile Include="OOPs\inheritance\example_1.cs" />
-    <Compile Include="OOPs\inheritance\inherit_demo.cs" />
-    <Compile Include="OOPs\method overriding\demoOverriding.cs" />
-    <Compile Include="OOPs\method overriding\method_overriding.cs" />
-    <Compile Include="OOPs\problem1.cs" />
-    <Compile Include="OOPs\problem2.cs" />
-    <Compile Include="OOPs\problem3.cs" />
-    <Compile Include="OOPs\propertiesExample.cs" />
-    <Compile Include="OOPs\staticExample.cs" />
-    <Compile Include="OOPs\timeClass.cs" />
-    <Compile Include="Patterns\P1.cs" />
-    <Compile Include="Patterns\P2.cs" />
-    <Compile Include="Patterns\P3.cs" />
-    <Compile Include="Patterns\P4.cs" />
-    <Compile Include="Patterns\P5.cs" />
-    <Compile Include="Patterns\P6.cs" />
-    <Compile Include="Patterns\P7.cs" />
-    <Compile Include="Patterns\P8.cs" />
-    <Compile Include="Patterns\P9.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Q1.cs" />
+    <Compile Include="Q2.cs" />
+    <Compile Include="Q3.cs" />
+    <Compile Include="Q4.cs" />
+    <Compile Include="Q5.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
